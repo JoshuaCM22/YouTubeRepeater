@@ -1,24 +1,7 @@
-# youtuberepeater
+# IMAGE CONVERTER
 
-## Project setup
-```
-npm install
-```
+* Purpose: My Project
+* Responsive Web Design: Yes
+* Type of Application: Web Application
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
-
-### Compiles and minifies for production
-```
-npm run build
-```
-
-### Lints and fixes files
-```
-npm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+  <img src="SCREENSHOTS/PIC1.jpg">
