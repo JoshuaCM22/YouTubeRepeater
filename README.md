@@ -1,4 +1,4 @@
-# IMAGE CONVERTER
+# YOUTUBE REPEATER
 
 * Purpose: My Project
 * Responsive Web Design: Yes
